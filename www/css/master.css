@@ -1,6 +1,6 @@
 body, html {
     /* position: relative; */
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'merriweather_sansregular', sans-serif;
     overflow: hidden;
 }
 .hide {
@@ -72,7 +72,7 @@ input[type="text"], textarea, [contenteditable]
 .title {
     color: #693393;
     font-size: 7rem;
-    font-family: 'Baloo', cursive;
+    font-family: 'balooregular', cursive;
 }
 .subtitle {
     font-size: 1.8rem;
